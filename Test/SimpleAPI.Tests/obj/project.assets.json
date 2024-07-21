@@ -5991,11 +5991,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\test\\SimpleAPI.Tests\\SimpleAPI.Tests.csproj",
+      "projectUniqueName": "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\test\\SimpleAPI.Tests\\SimpleAPI.Tests.csproj",
       "projectName": "SimpleAPI.Tests",
-      "projectPath": "E:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\test\\SimpleAPI.Tests\\SimpleAPI.Tests.csproj",
+      "projectPath": "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\test\\SimpleAPI.Tests\\SimpleAPI.Tests.csproj",
       "packagesPath": "C:\\Users\\pradeep.kumar4\\.nuget\\packages\\",
-      "outputPath": "E:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\test\\SimpleAPI.Tests\\obj\\",
+      "outputPath": "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\test\\SimpleAPI.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pradeep.kumar4\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6006,14 +6006,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj": {
-              "projectPath": "E:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj"
+            "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj": {
+              "projectPath": "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj"
             }
           }
         }
@@ -6022,6 +6023,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -6065,7 +6071,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
