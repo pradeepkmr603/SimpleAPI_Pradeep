@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\test\\simpleapi.tests\\SimpleAPI.Tests.csproj": {}
+    "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\test\\SimpleAPI.Tests\\SimpleAPI.Tests.csproj": {}
   },
   "projects": {
     "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj": {
@@ -78,14 +78,14 @@
         }
       }
     },
-    "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\test\\simpleapi.tests\\SimpleAPI.Tests.csproj": {
+    "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\test\\SimpleAPI.Tests\\SimpleAPI.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\test\\simpleapi.tests\\SimpleAPI.Tests.csproj",
+        "projectUniqueName": "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\test\\SimpleAPI.Tests\\SimpleAPI.Tests.csproj",
         "projectName": "SimpleAPI.Tests",
-        "projectPath": "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\test\\simpleapi.tests\\SimpleAPI.Tests.csproj",
+        "projectPath": "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\test\\SimpleAPI.Tests\\SimpleAPI.Tests.csproj",
         "packagesPath": "C:\\Users\\pradeep.kumar4\\.nuget\\packages\\",
-        "outputPath": "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\test\\simpleapi.tests\\obj\\",
+        "outputPath": "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\test\\SimpleAPI.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pradeep.kumar4\\AppData\\Roaming\\NuGet\\NuGet.Config",

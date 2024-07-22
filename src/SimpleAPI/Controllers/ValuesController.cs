@@ -19,7 +19,7 @@ namespace SimpleAPI.Controllers
         // GET: api/values/5
         public string Get(int id)
         {
-            return "pradeep kumar1";
+            return "pradeep kumar";
         }
 
     }
