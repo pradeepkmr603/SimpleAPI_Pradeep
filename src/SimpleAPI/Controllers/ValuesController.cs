@@ -13,13 +13,13 @@ namespace SimpleAPI.Controllers
         // GET: api/values
         public IEnumerable<string> Get()
         {
-            return new string[] { "pradeep", "amar" };
+            return new string[] { "pradeep1", "amar" };
         }
 
         // GET: api/values/5
         public string Get(int id)
         {
-            return "pradeep kumar";
+            return "pradeep kumar1";
         }
 
     }
