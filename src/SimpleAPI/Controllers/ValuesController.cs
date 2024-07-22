@@ -11,14 +11,14 @@ namespace SimpleAPI.Controllers
    public class ValuesController : ControllerBase
     {
         // GET: api/values
-        // [HttpGet]
-        // public IEnumerable<string> Get()
-        // {
-        //     return new string[] { "pradeep1", "amar" };
-        // }
+        [HttpGet("Getdata")]
+        public IEnumerable<string> Get()
+        {
+            return new string[] { "pradeep1", "amar" };
+        }
 
         //GET: api/values/5
-        [HttpGet]
+        [HttpGet("Getname")]
         public string GetName()
         {
             return "pradeep kumar";
