@@ -8,11 +8,11 @@ namespace SimpleAPI.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-   public class ValuesController : ControllerBase
+   public class ValuesController : ControllerBase 
     {
-           [HttpGet("list")]
+           [HttpGet("list")] 
         // GET: api/values
-        public IEnumerable<string> Get()
+        public IEnumerable<string> Get() 
         {
             return new string[] { "sandeep karan", "papa need your blessing" };
         }
