@@ -3,18 +3,21 @@ namespace SimpleAPI.Tests;
 
 public class UnitTest1
 {
-    ValuesController valuesController = new ValuesController();     //Arrange
-   
+     ValuesController controller = new ValuesController();
     [Fact]
-    public void GetReturnedCollectNumber()
+    public void GetReturnsCorrectNumber()
     {
-        var getValue = valuesController.Get(1);                     //Act
+        var returnValue = controller.Get(1);
+        Assert.Equal("sandeep", returnValue);
+    }
+
+    // ValuesController valuesController = new ValuesController();     //Arrange
+   
+    // [Fact]
+    // public void GetReturnedCollectNumber()
+    // {
+    //     var getValue = valuesController.GetName();                     //Act
        
-        Assert.Equal("pradeep kumar", getValue);                        //Assert
-    }
-    
-    public string GetName()
-    {
-        return "pradeep kumar";
-    }
+    //     Assert.Equal("pradeep kumar", getValue);                        //Assert
+    // }
 }   
