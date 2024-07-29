@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace SimpleAPI.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/[controller]")] 
    public class ValuesController : ControllerBase 
     {
            [HttpGet("list")] 
@@ -22,7 +22,7 @@ namespace SimpleAPI.Controllers
         {
             return "sandeep";
         }
-
+        //test
         // // GET: api/values
         // [HttpGet("Getdata")]
         // public IEnumerable<string> Get()

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj": {}
+    "d:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj": {}
   },
   "projects": {
-    "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj": {
+    "d:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj",
+        "projectUniqueName": "d:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj",
         "projectName": "SimpleAPI",
-        "projectPath": "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj",
+        "projectPath": "d:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj",
         "packagesPath": "C:\\Users\\pradeep.kumar4\\.nuget\\packages\\",
-        "outputPath": "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\src\\SimpleAPI\\obj\\",
+        "outputPath": "d:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD\\SimpleAPI\\src\\SimpleAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pradeep.kumar4\\AppData\\Roaming\\NuGet\\NuGet.Config",
